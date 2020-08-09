@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/douglastofoli/">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Douglas%20Tofoli-9871F5?label=Linkedin&logo=linkedin&style=flat-square">
   </a>
-  <a href="./LICENSE.txt">
+  <a href="./LICENSE">
     <img alt="GitHub license" src="https://img.shields.io/github/license/douglastofoli/proffy?logo=mint&style=flat-square">
   </a>
 </h1>

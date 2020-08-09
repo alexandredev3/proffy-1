@@ -76,6 +76,7 @@ Technologies used in the backend, frontend and mobile:
 </a>
 
 <br />
+<br />
 
 <a href="https://www.linkedin.com/in/douglastofoli/">
   <img alt="Linkedin" src="https://img.shields.io/badge/-Douglas%20Tofoli-9871F5?label=Linkedin&logo=linkedin&style=flat-square">

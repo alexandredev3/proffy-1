@@ -66,14 +66,16 @@ Technologies used in the backend, frontend and mobile:
 - [TypeScript](https://www.typescriptlang.org/)
 
 <h2 id="author">
-   👷️ Author
+  👷️ Author
 </h2>
 
 <a href="https://github.com/douglastofoli/">
- <img src="https://avatars1.githubusercontent.com/u/3953162?v=4" width="100px;" alt="My photo"/>
- <br />
- <sub><b>Douglas Tofoli</b></sub>
+  <img src="https://avatars1.githubusercontent.com/u/3953162?v=4" width="100px;" alt="My photo"/>
+  <br />
+  <sub><b>Douglas Tofoli</b></sub>
 </a>
+
+<br />
 
 <a href="https://www.linkedin.com/in/douglastofoli/">
   <img alt="Linkedin" src="https://img.shields.io/badge/-Douglas%20Tofoli-9871F5?label=Linkedin&logo=linkedin&style=flat-square">
